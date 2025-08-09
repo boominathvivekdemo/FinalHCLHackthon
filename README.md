@@ -1,3 +1,26 @@
+
+How to Run:
+
+Running BackEnd server:
+
+```sh
+cd backend
+npm i
+node server.js
+```
+
+Running FrontEnd UI:
+
+
+from rootfolder
+```sh
+cd frontend
+npm i
+npm run dev
+```
+
+
+
 <img width="468" height="50" alt="image" src="https://github.com/user-attachments/assets/1873801d-8c62-424d-9926-349c20bcfe47" /><img width="468" height="50" alt="image" src="https://github.com/user-attachments/assets/42965200-f37e-4693-8359-2705ad123b61" /><img width="468" height="50" alt="image" src="https://github.com/user-attachments/assets/8feb5bc5-1456-4431-8bd8-578e7858bf57" />Login Screen
 
 <img width="468" height="50" alt="image" src="https://github.com/user-attachments/assets/935318bc-b403-4ae5-a11e-7b7d4bf790b9" />
